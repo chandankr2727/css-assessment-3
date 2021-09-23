@@ -1,0 +1,155 @@
+body{
+    background-color: gray;
+}
+.div{
+    border: 10px solid red;
+    border-radius: 20px;
+    box-shadow: 8px 8px 5px rebeccapurple;
+    background-color: white;
+    
+    text-align: center;
+    margin: auto;
+    
+}
+.div1{
+    
+    width: 20%;
+    color: rgb(114, 23, 114);
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 45px;
+    padding: 16px 100px 16px 100px;
+    text-shadow: 1px 1px 2px rgb(233, 39, 39);
+    font-style: italic;
+}
+.box{
+    border: green solid 9px;
+    width: 99%;
+    height: 46em;
+    
+}
+.div2{
+    position:absolute;
+    color: rgb(75, 3, 75);
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 50px;
+    padding: 16px 16px 66px 16px;
+    text-shadow: 1px 2px 2px rgb(56, 2, 56);
+    margin-top: 10px;
+}
+.div3{
+    position: absolute;
+    right: 10px;
+    background-color: white;
+    padding: 50px 5px 50px 5px;
+    width: 15em;  
+    margin-top: 10px; 
+}
+.div4{
+    position: absolute;
+    background-color: white;
+    padding: 10px;
+    top: 26em;
+    color: rgb(75, 3, 75);
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    padding: 16px 6px 16px 6px;
+    text-shadow: 1px 2px 2px rgb(56, 2, 56);
+    text-align: left;
+}
+.div5{
+    position: absolute;
+    background-color: white;
+    top: 36em;
+    right: 10px;
+    text-align: center;
+    color: rgb(75, 3, 75);
+    text-shadow: 1px 2px 2px rgb(56, 2, 56);
+    font-size: 18px;
+    padding: 10px 10px 60px 10px;
+
+}
+.btn1{
+    text-decoration: none;
+    background-color: red;
+    color: black;
+    font-weight: 20;
+    border-radius: 30px;
+    border: solid 2px blue;
+}
+.box2{
+    border:purple 7px solid;
+    width: 50em;
+    height: 41.5em;
+    text-align: center;
+    margin: auto;
+    background-color: green;
+    margin-top: 25px;
+
+}
+.div6{
+    color: black;
+    background-color: green;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+.div7{
+    position: absolute;
+    background-color: rgb(236, 226, 131);
+    margin-top: 2em;
+    margin-left: 10px;
+    height: 17em;
+    width: 24em;
+    font-style: italic;
+    line-height: 35px;
+}
+.div8{
+    position: absolute;
+    background-color: rgb(236, 226, 131);
+    margin-top: 2em;
+    height: 17em;
+    width: 24em;
+    font-style: italic;
+    line-height: 35px;
+    right: 15em;
+}
+.div9{
+    position: absolute;
+    background-color: rgb(236, 226, 131);
+    margin-top: 20em;
+    margin-left: 13px;
+    height: 17em;
+    width: 48.5em;
+    font-style: italic;
+    line-height: 35px;
+}
+.box3{
+    display: flex;
+    position: fixed;
+    bottom: 5px;
+    right: 23em;
+    width: 35%;
+    color: rgb(221, 11, 11);
+    line-height: 35px;
+    padding: 10px 10px 10px 10px;
+    text-shadow: 1px 1px 1px rgb(233, 39, 39);
+    font-style: italic;
+    border: 10px solid red;
+    border-radius: 20px;
+    box-shadow: 8px 8px 5px rebeccapurple;
+    background-color: lime;
+    text-align: center;
+}
+.div10{
+    width: 60%;
+    font-size: 23px;
+}
+.div11{
+    width: 40%;
+    line-height: 25px;
+    margin-top: 12px;
+    font-size: 18px;
+}
