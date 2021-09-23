@@ -1,5 +1,5 @@
 body{
-    background-image: url(./new\ background.jpg) ;
+    background-image: url(./newimage.jpg);
 }
 .div{
     border: 10px solid red;
@@ -153,7 +153,7 @@ body{
     margin-top: 12px;
     font-size: 18px;
 }
-.img{
+.imga{
     position: absolute;
     right: 22em;
     margin-top: 12em;
