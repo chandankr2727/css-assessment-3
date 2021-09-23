@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-image: url(./new\ background.jpg) ;
 }
 .div{
     border: 10px solid red;
@@ -152,4 +152,9 @@ body{
     line-height: 25px;
     margin-top: 12px;
     font-size: 18px;
+}
+.img{
+    position: absolute;
+    right: 22em;
+    margin-top: 12em;
 }
