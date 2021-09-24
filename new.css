@@ -117,7 +117,7 @@ body{
     line-height: 35px;
 }
 .div9{
-    position: absolute;
+    clear: both;
     background-color: rgb(236, 226, 131);
     margin-top: 20em;
     margin-left: 13px;
