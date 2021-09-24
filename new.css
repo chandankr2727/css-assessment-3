@@ -97,24 +97,24 @@ body{
     margin-top: 20px;
 }
 .div7{
-    position: absolute;
+    float: left;
     background-color: rgb(236, 226, 131);
     margin-top: 2em;
-    margin-left: 10px;
+    margin-left: 9px;
     height: 17em;
     width: 24em;
     font-style: italic;
     line-height: 35px;
 }
 .div8{
-    position: absolute;
+    float: right;
     background-color: rgb(236, 226, 131);
     margin-top: 2em;
+    margin-right: 9px;
     height: 17em;
     width: 24em;
     font-style: italic;
     line-height: 35px;
-    right: 15em;
 }
 .div9{
     position: absolute;
@@ -130,11 +130,11 @@ body{
     display: flex;
     position: fixed;
     bottom: 5px;
-    right: 23em;
+    right: 24em;
     width: 35%;
     color: rgb(221, 11, 11);
     line-height: 35px;
-    padding: 10px 10px 10px 10px;
+    padding: 86x;
     text-shadow: 1px 1px 1px rgb(233, 39, 39);
     font-style: italic;
     border: 10px solid red;
@@ -154,7 +154,6 @@ body{
     font-size: 18px;
 }
 .imga{
-    position: absolute;
-    right: 22em;
-    margin-top: 12em;
+    margin-left: 21.4em;
+    margin-top: 13em;
 }
